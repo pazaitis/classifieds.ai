@@ -11,7 +11,7 @@
       <ul>
         <li>
           <a href="https://github.com/MicrosoftDocs/mslearn-staticwebapp">
-            Code in GitHubjjj
+            Code in GitHubjjjj
           </a>
         </li>
       </ul>
