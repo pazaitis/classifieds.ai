@@ -7,7 +7,7 @@
         with Vue. The shopping theme is used throughout the app.
       </p>
       <br />
-      <h2 class="title">Resources</h2>
+      <h2 class="title">Na pate na gamithite</h2>
       <ul>
         <li>
           <a href="https://github.com/MicrosoftDocs/mslearn-staticwebapp">
